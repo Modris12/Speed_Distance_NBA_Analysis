@@ -1,4 +1,7 @@
-# \# NBA Speed \& Distance Analysis
+
+# \# NBA Speed & Distance Analysis
+
+\*\*Author:\*\* Modris Opelts 
 
 
 
